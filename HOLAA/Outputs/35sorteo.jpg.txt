@@ -1,0 +1,14 @@
+ImageWidth               : 6016
+ImageLength              : 4016
+BitsPerSample            : (8, 8, 8)
+PhotometricInterpretation: 2
+ResolutionUnit           : 2
+ExifOffset               : 288
+Make                     : NIKON CORPORATION
+Model                    : NIKON D750
+Software                 : Adobe Photoshop 22.4 (Macintosh)
+Orientation              : 1
+DateTime                 : 2021:06:29 17:18:01
+SamplesPerPixel          : 3
+XResolution              : 240.0
+YResolution              : 240.0

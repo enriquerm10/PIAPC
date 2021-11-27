@@ -1,0 +1,16 @@
+ImageWidth               : 4288
+ImageLength              : 2848
+BitsPerSample            : (8, 8, 8)
+GPSInfo                  : 960
+PhotometricInterpretation: 2
+ResolutionUnit           : 2
+ExifOffset               : 308
+Make                     : NIKON CORPORATION
+Model                    : NIKON D90
+Software                 : Adobe Photoshop CC (Macintosh)
+Orientation              : 1
+DateTime                 : 2021:11:24 11:32:59
+YCbCrPositioning         : 2
+SamplesPerPixel          : 3
+XResolution              : 300.0
+YResolution              : 300.0

@@ -1,0 +1,43 @@
+ERROR:root:main: falta un operando
+Pruebe 'main -h' o 'main --help' para más información.
+ERROR:root:main: falta un operando
+Pruebe 'main -h' o 'main --help' para más información.
+INFO:root:Namespace(script='A', URL='https://www.uanl.mx', Carpeta='HOLAA', Directorio=None, dominio=None, api=None, numero=None, Modo=None, target=None)
+INFO:root:HOLAA
+INFO:root:https://www.uanl.mx
+ERROR:root:main: falta un operando
+Pruebe 'main -h' o 'main --help' para más información.
+INFO:root:Namespace(script='B', URL=None, Carpeta=None, Directorio=None, dominio='movistar', api='c04832987662fc010911d3432c0dda9692a514d7', numero='4', Modo=None, target=None)
+ERROR:root:main: falta un operando
+Pruebe 'main -h' o 'main --help' para más información.
+INFO:root:Namespace(script='C', URL=None, Carpeta=None, Directorio=None, dominio=None, api=None, numero=None, Modo=None, target=None)
+ERROR:root:main: falta un operando
+Pruebe 'main -h' o 'main --help' para más información.
+INFO:root:Namespace(script='D', URL=None, Carpeta=None, Directorio='C:\\Users\\juanp\\Downloads\\PC21\\HOLAA\\Imagenes', dominio=None, api=None, numero=None, Modo=None, target=None)
+INFO:root:C:\Users\juanp\Downloads\PC21\HOLAA\Imagenes
+ERROR:root:main: falta un operando
+Pruebe 'main -h' o 'main --help' para más información.
+INFO:root:Namespace(script='E', URL=None, Carpeta=None, Directorio=None, dominio=None, api=None, numero=None, Modo='encriptar', target=None)
+INFO:root:mensaje cifrado
+INFO:root:iwxiAiwAryiwxvsAtme
+INFO:root:kikenya420@gmail.com
+INFO:root:juanpablo_rangel17@hotmail.com
+INFO:root:Futbol#100
+INFO:root:C:\Users\juanp\Downloads\PC21\hola.jpg
+INFO:root:Namespace(script='E', URL=None, Carpeta=None, Directorio=None, dominio=None, api=None, numero=None, Modo='desencriptar', target=None)
+ERROR:root:main: falta un operando
+Pruebe 'main -h' o 'main --help' para más información.
+INFO:root:Namespace(script='F', URL=None, Carpeta=None, Directorio=None, dominio=None, api=None, numero=None, Modo=None, target=None)
+ERROR:root:main: falta un operando
+Pruebe 'main -h' o 'main --help' para más información.
+INFO:root:Namespace(script='G', URL=None, Carpeta=None, Directorio=None, dominio=None, api=None, numero=None, Modo=None, target='192.168.1.245')
+INFO:root:192.168.1.245
+ERROR:root:main: falta un operando
+Pruebe 'main -h' o 'main --help' para más información.
+ERROR:root:main: falta un operando
+Pruebe 'main -h' o 'main --help' para más información.
+INFO:root:Namespace(script='H', URL=None, Carpeta='HASHES', Directorio='C:\\Users\\juanp\\Downloads\\PC21', dominio=None, api=None, numero=None, Modo=None, target=None)
+INFO:root:C:\Users\juanp\Downloads\PC21
+INFO:root:HASHES
+ERROR:root:main: falta un operando
+Pruebe 'main -h' o 'main --help' para más información.

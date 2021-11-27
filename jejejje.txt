@@ -1,0 +1,44 @@
+
+
+cd C:\Users\juanp\Downloads\PC21
+
+py main.py -h
+
+py main.py A -U https://www.uanl.mx -C HOLA
+
+py main.py B -A c04832987662fc010911d3432c0dda9692a514d7 -D movistar -N 4
+
+py main.py C
+
+py main.py D -R C:\Users\juanp\Downloads\PC21\HOLA\Imagenes
+
+py main.py E -M encriptar
+
+este es nuestro pia
+
+lsti
+
+mensaje cifrado
+
+kikenya420@gmail.com
+
+Futbol#100
+
+erochamn212@uanl.edu.mx
+
+C:\Users\juanp\Downloads\PC21\hola.jpg
+
+
+py main.py E -M desencriptar
+
+iwxiAiwAryiwxvsAtme
+
+
+py main.py F
+
+cd C:\Users\juanp\Downloads\PC21
+
+
+py Cliente.py
+
+py main.py G -I 192.168.1.245
